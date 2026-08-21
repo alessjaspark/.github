@@ -1,2 +1,2 @@
 # .github
-Organization profile config — contains profile/READE.md rendered on alessjaspark org page.
+Organization profile config — contains profile/README.md, rendered on the alessjaspark org page.

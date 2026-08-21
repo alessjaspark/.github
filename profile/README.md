@@ -60,7 +60,7 @@ Triple identity: Systemarchitektin · Orchestratorin · Coachin.
 
 ## Behind Alessja
 
-Built solo by [Dr. Seb (SebazzProductions)](https://sebazzproductions.com) over 8 months across 30 iterations.
+Built solo by [Dr. Seb (SebazzProductions)](https://github.com/SebazzProductions) over 8 months across 30 iterations.
 
 Personal Hub · Developer · Mentor: [sebastianrau.net](https://sebastianrau.net)
 
